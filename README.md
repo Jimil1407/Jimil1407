@@ -1,6 +1,6 @@
 [![MasterHead](https://camo.githubusercontent.com/c7299fe2075350401286e4c7b7f5221162fbd6ccfb34bc63b93319acf1093406/68747470733a2f2f6d656469612e67726170686173736574732e636f6d2f694f48566b775a4a53524f4f394c616670486958)](https://jimil-portfolio.vercel.app/)
 <h1 align="center">Hi 👋, I'm Jimil Digaswala</h1>
-<h3 align="center">A passionate Data Science and Full-Stack developer</h3>
+<h3 align="center">I'm a data wizard by day, sculpting insights from the chaos of bytes. By night, I'm a full-stack superhero, weaving code like a web-spinning maestro. </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jimil1407&label=Profile%20views&color=0e75b6&style=flat" alt="jimil1407" /> </p>
 
 <p align="left"> <a href="https://twitter.com/jimmjamm07" target="blank"><img src="https://img.shields.io/twitter/follow/jimmjamm07?logo=twitter&style=for-the-badge" alt="jimmjamm07" /></a> </p>
