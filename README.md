@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **jimil.devs@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1gVSn_0GM60PcW4H8i_xofvbQ3Btv1HCh](https://drive.google.com/drive/folders/1gVSn_0GM60PcW4H8i_xofvbQ3Btv1HCh)
-
 - ⚡ Fun fact **I think I am funny.**
 
 <h3 align="left">Connect with me:</h3>
