@@ -2,13 +2,13 @@
 <h3 align="center">I'm a data wizard by day, sculpting insights from the chaos of bytes. By night, I'm weaving code like a web-spinning maestro. </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jimil1407&label=Profile%20views&color=0e75b6&style=flat" alt="jimil1407" /> </p>
 
-<p align="left"> <a href="https://twitter.com/jimiltwt" target="blank"><img src="https://img.shields.io/twitter/follow/jimmjamm07?logo=twitter&style=for-the-badge" alt="jimiltwt" /></a> </p>
+<p align="left"> <a href="https://twitter.com/jimiltwt" target="blank"><img src="https://img.shields.io/twitter/follow/jimiltwt?logo=twitter&style=for-the-badge" alt="jimiltwt" /></a> </p>
 
-- 🌱 I’m currently learning **OpenCV, Mediapipe**
+- 🌱 I’m currently learning **DevOps**
 
 - 👨‍💻 All of my projects are available at [https://jimil-portfolio.vercel.app/](https://jimil-portfolio.vercel.app/)
 
-- 💬 Ask me about **react, Tensorflow**
+- 💬 Ask me about **Machine Learning, Tensorflow**
 
 - 📫 How to reach me **jimil.devs@gmail.com**
 
